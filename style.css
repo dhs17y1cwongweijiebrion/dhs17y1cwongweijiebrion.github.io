@@ -1,16 +1,33 @@
 body{
- background-color: rgb(255, 0, 0)
+ background-color: rgb(255, 0, 0);
  }
+img {
+    display: block;
+    margin: auto;
+    width: 0%;
+}
  h1{
  font-family: Times New Roman;
-  font-color: rgb(255, 255, 255)
+  font-color: rgb(255, 255, 255);
+   text-align: center;
  }
  p{
  font-family: Georgia;
+   text-align: center;
  }
  h2{ 
  font-family: Cooper Black;
+   text-align: center;
  }
  p{
  font-family: Arial;
+   text-align: center;
  }
+h2{
+ font-family: Cooper Black;
+   text-align: center;
+}
+p{
+ font-family: Arial;
+   text-align: center;
+}
