@@ -5,10 +5,11 @@ body{
   font-family: "Times New Roman", Times, serif;
    text-align: center;
  }
- p{
- font-family: "Georgia", serif;
-   text-align: center;
- }
+img{
+ position: absolute;
+ margin: auto;
+ width: 20%;
+}
  h2{ 
  font-family: "Verdana", sans-serif;
    text-align: center;
